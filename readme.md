@@ -10,7 +10,7 @@
 
 2. 将编译后的Exploit.class放到公网vps（能够使用http去访问到）
 
-3. 将`marshalsec-0.0.3-SNAPSHOT-all.jar`放到公网vps上，注意公网vps需配置和java环境
+3. 将`marshalsec-0.0.3-SNAPSHOT-all.jar`放到公网vps上，注意公网vps需配置好java环境
 
    执行如下命令启用ldap服务：
 
